@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm valentine</h1><br>
+### Hi 👋 I'm valentine
 
 - 🔭 I’m currently learning **C**, **Assembly** & **Golang**
 - 📫 How to reach me: Email **v**[at]**snowangel**[dot]**net** 
