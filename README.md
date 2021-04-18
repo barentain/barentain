@@ -1,3 +1,3 @@
 ### valentine
 
-From the moment we're born, equality is non-existent.
+equality is absent from the moment we're born.
