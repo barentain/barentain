@@ -1,6 +1,3 @@
-### Hi 👋 I'm valentine
+### valentine
 
-- 🔭 I’m currently learning **C**, **Assembly** & **Golang**
-- 📫 How to reach me: 
-          > Email **v** [at] **vitiosus** [dot] **org**
-- ⚡ Fun fact: ur a skid..
+From the moment we're born, equality is non-existent.
